@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<testSuite version="5.1.0.77511">
+    <testGroups>
+        <item name="group1">
+            <rootFolder>project://test/testCases/</rootFolder>
+        </item>
+    </testGroups>
+</testSuite>

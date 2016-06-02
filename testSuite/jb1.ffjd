@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ASCII"?>
+<jobs:JobDefinition xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jobs="http://fanfaresoftware.com/itest/3.4/jobs" onceStartTime="1464212880000" immediate="true" periodEnd="1480113817931" dailyStartTime="60480000" timeLimit="3600000">
+  <data xsi:type="jobs:TestJobDefinitionData" headline="" description="" test="project://test/testSuite/ts1.ffts" paramFile=""/>
+</jobs:JobDefinition>
